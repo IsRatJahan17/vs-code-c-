@@ -1,1 +1,1 @@
-# vs-code-c-
+# vs-code-c++
